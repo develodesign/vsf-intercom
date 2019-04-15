@@ -3,7 +3,7 @@
 <br />Intercom account required (free tier is available)
 <br /><br />
 Intergration with the Intercom customer messaging platform for your Vue Storefront, this Intercom module is configured to update Intercom with the customers current route, this allows you to accurately help your customer, knowing what page they are asking questions on from inside Intercom.
-
+<br />
 ![Demo](docs/demo.png)
 
 ## Installation:
@@ -39,7 +39,7 @@ Intercom
 ]
 ```
 ### 3. Enjoy!
-Thats it! It's easy, plug and play!
+Thats it! It's easy, plug and play! If you havn't got an Intercom account already, you can create one here, there is free tier that you can use to get started: https://www.intercom.com/pricing
 
 ## Customization
 #### Replacing the Intercom Script.
