@@ -12,7 +12,7 @@ Intergration with the Intercom customer messaging platform for your Vue Storefro
 
 Clone the vsf-intercom repository into your VSF installation.
 ```shell
-$ git clone git@github.com:develodesign/vsf-intercom.git ./vue-storefront/src/modules/intercom
+$ git clone git@github.com:develodesign/vsf-intercom.git vue-storefront/src/modules/intercom
 ```
 
 ### 2. Add the module config to your local VSF configuration file.
